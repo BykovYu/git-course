@@ -3,5 +3,3 @@ def fact(a):
         return 1
     else:
         return a*fact(a-1)
-
-print(fact(int(input())))
