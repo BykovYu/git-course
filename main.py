@@ -5,7 +5,7 @@ os.system("cls")
 print("It is mine first project in git")
 print("Hello GIT!!!")
 print("Want you to count?")
-os.system("git branch")
+os.system("git branc")
 input()
 
 def one():
